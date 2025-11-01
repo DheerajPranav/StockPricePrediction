@@ -1,10 +1,10 @@
 
 # Stock Price Movement Prediction
 
-## 📌 Overview
+##  Overview
 This project predicts the next day's closing price of a stock based on historical data and relevant features.
 
-## 🧱 Project Structure
+##  Project Structure
 
 - `main.py`: Orchestrates the full pipeline.
 - `app.py`: Flask API to serve predictions.
@@ -29,7 +29,7 @@ If we want to dive deeper into the model, data analysis, or experiment with diff
 2_Data_Prep.ipynb
 3_Model_Building.ipynb
 ```
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Local Setup
 ```bash
